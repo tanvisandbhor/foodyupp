@@ -86,8 +86,9 @@ EMAIL_PASS=your_email_password
 ## 🚀 Project Demo
 
 🎥 [(https://shorturl.at/SaNMT)]([(https://shorturl.at/SaNMT)])
+https://shorturl.at/SaNMT
 
-
+---------------------------------
 
 ✅ Status
 This project is under active development. Future plans include:
@@ -95,11 +96,15 @@ Admin dashboard
 Real-time order tracking
 UI enhancements
 
+---------------------------------
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+---------------------------------
 📄 License
 MIT
+
+---------------------------------
 
 🙋‍♀️ Author
 Built with ❤️ by Tanvi Sandbhor

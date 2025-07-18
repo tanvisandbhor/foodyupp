@@ -1,8 +1,4 @@
 
-📄 README.md
-markdown
-Copy
-Edit
 # foodyup 🍔
 
 A full-stack Food Ordering Web App built using the MERN Stack (MongoDB, Express, React, Node.js). Users can browse food items, add them to a cart, place orders, and track order status. Admins can manage listings and view orders.
@@ -87,7 +83,7 @@ EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
 
 ---------------------------------
-
+https://shorturl.at/SaNMT
 ✅ Status
 This project is under active development. Future plans include:
 Admin dashboard

@@ -73,8 +73,8 @@ cd ../mernapp
 npm install
 npm start
 
-📬 Environment Variables
-Create a .env file in the backend/ folder with:
+ Environment Variables
+ Create a .env file in the backend/ folder with:
 
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
@@ -85,7 +85,7 @@ EMAIL_PASS=your_email_password
 ---------------------------------
 ## 🚀 Project Demo
 
-🎥 [Click here to watch the demo video]([https://yourlink.com](https://shorturl.at/SaNMT))
+🎥 [Click here to watch the demo video]([(https://shorturl.at/SaNMT)])
 
 
 

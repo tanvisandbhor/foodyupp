@@ -83,7 +83,12 @@ EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
 
 ---------------------------------
-https://shorturl.at/SaNMT
+## 🚀 Project Demo
+
+🎥 [Click here to watch the demo video]([https://yourlink.com](https://shorturl.at/SaNMT))
+
+
+
 ✅ Status
 This project is under active development. Future plans include:
 Admin dashboard

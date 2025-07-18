@@ -85,7 +85,7 @@ EMAIL_PASS=your_email_password
 ---------------------------------
 ## 🚀 Project Demo
 
-🎥 [Click here to watch the demo video]([(https://shorturl.at/SaNMT)])
+🎥 [(https://shorturl.at/SaNMT)]([(https://shorturl.at/SaNMT)])
 
 
 
